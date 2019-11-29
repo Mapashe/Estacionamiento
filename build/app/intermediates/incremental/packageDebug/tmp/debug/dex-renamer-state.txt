@@ -1,0 +1,4 @@
+#Thu Oct 17 23:49:54 CDT 2019
+base.0=C\:\\Users\\palom\\OneDrive\\Documents\\TEDP\\activo\\Benji\\tarea_estacionamiento\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
